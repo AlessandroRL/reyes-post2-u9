@@ -15,9 +15,9 @@ mvn verify # Pruebas + reporte JaCoCo
 
 ## Cobertura
 
-![Captura JaCoCo](docs/jacoco1-report.png)
-![Captura JaCoCo](docs/jacoco2-report.png)
-![Captura JaCoCo](docs/jacoco3-report.png)
+![Captura JaCoCo](docs/jacoco-report1.png)
+![Captura JaCoCo](docs/jacoco-report2.png)
+![Captura JaCoCo](docs/jacoco-report3.png)
 
 ## Evidencia
 
