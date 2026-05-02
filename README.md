@@ -15,6 +15,10 @@ mvn verify # Pruebas + reporte JaCoCo
 
 ## Cobertura
 
+![Captura JaCoCo](docs/jacoco-report.png)
+
+## Pruebas locales
+
 ![Captura JaCoCo](docs/jacoco-report1.png)
 ![Captura JaCoCo](docs/jacoco-report2.png)
 ![Captura JaCoCo](docs/jacoco-report3.png)
