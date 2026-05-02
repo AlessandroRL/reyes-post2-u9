@@ -34,6 +34,7 @@ El detalle de las pruebas y la verificación del proyecto está documentado en [
 
 ## Estado del proyecto
 
-- Las pruebas locales ejecutan en verde
+- Las pruebas locales ejecutan en verde (13 pruebas en total)
+- La cobertura de `ProductoServiceImpl` supera el 70% en líneas
 - El reporte JaCoCo se genera en `target/site/jacoco/index.html`
 - El workflow de GitHub Actions está configurado en `.github/workflows/ci.yml`
